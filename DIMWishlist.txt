@@ -3,5 +3,5 @@ description:From the Forbes writer Paul Tassi
 
 //Chroma Rush 
 //notes: Testing
-dimwishlist:item=1119734784&perks=3250034553,3142289711,1570042021,3425386926 #notes:PVE
-dimwishlist:item=1119734784&perks=3250034553,3142289711,3426439907,3425386926 #notes:PVE
+dimwishlist:item=1119734784&perks=3142289711,1570042021,3425386926 #notes:PVE
+dimwishlist:item=1119734784&perks=3142289711,3426439907,3425386926 #notes:PVE

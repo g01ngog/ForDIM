@@ -41,3 +41,4 @@ dimwishlist:item=310708513&perks=247725512,1015611457 #notes:PVE SofSplicer
 dimwishlist:item=310708513&perks=3124871000,2458213969 #notes:PVE SofSplicer
 dimwishlist:item=310708513&perks=2450788523,957782887 #notes:PVP SofSplicer
 dimwishlist:item=310708513&perks=706527188,588594999 #notes:PVP SofSplicer
+https://destinytracker.com/destiny-2/db/items/310708513?perks=1322370662,1840239774,2420895100,1570042021,11612903,4248210736,2323986101,1590375896,0,2285418970

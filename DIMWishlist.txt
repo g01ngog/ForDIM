@@ -1,41 +1,43 @@
 title:WishListfromPaulTassi
 description:From the Forbes writer Paul Tassi
 
+//notes: Season of Splicer Weapona
 //Chroma Rush 
-//notes: Season of Splicer Weapon
-dimwishlist:item=1119734784&perks=3250034553,3142289711,1570042021,3425386926#notes:PVE
-dimwishlist:item=1119734784&perks=3250034553,3142289711,3426439907,3425386926#notes:PVE
-dimwishlist:item=1119734784&perks=3250034553,3142289711,2779035018,3425386926#notes:PVE
-dimwishlist:item=1119734784&perks=3250034553,3142289711,1015611457,3425386926#notes:PVE
+dimwishlist:item=1119734784&perks=3250034553,3142289711,1570042021,3425386926#notes:PVE SofSplicer
+dimwishlist:item=1119734784&perks=3250034553,3142289711,3426439907,3425386926#notes:PVE SofSplicer
+dimwishlist:item=1119734784&perks=3250034553,3142289711,2779035018,3425386926#notes:PVE SofSplicer
+dimwishlist:item=1119734784&perks=3250034553,3142289711,1015611457,3425386926#notes:PVE SofSplicer
 
 //Ignition Code
-//notes: Season of Splicer Weapon
-dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:PVE
-dimwishlist:item=304659313&perks=3032599245,3161816588,4104185692#notes:PVE
-dimwishlist:item=304659313&perks=1716000303,3161816588,1546637391#notes:PVE
-dimwishlist:item=304659313&perks=1716000303,3161816588,4104185692#notes:PVE
+dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:PVE SofSplicer
+dimwishlist:item=304659313&perks=3032599245,3161816588,4104185692#notes:PVE SofSplicer
+dimwishlist:item=304659313&perks=1716000303,3161816588,1546637391#notes:PVE SofSplicer
+dimwishlist:item=304659313&perks=1716000303,3161816588,4104185692#notes:PVE SofSplicer
 dimwishlist:item=304659313&perks=409831596,2010801679,960810156#notes:Super fun roll for mob clearing
 
 //Farewell
-//notes: Season of Splicer Weapon
-dimwishlist:item=541188001&perks=2117683199,4104185692#notes:PVP
-dimwishlist:item=541188001&perks=1570042021,2458213969#notes:PVE
+dimwishlist:item=541188001&perks=2117683199,4104185692#notes:PVP SofSplicer
+dimwishlist:item=541188001&perks=1570042021,2458213969#notes:PVE SofSplicer
 
 //Gridskipper
-//notes: Season of Splicer Weapon
-dimwishlist:item=1621558458&perks=280464955,2213355989#notes:PVP
-dimwishlist:item=1621558458&perks=2946784966,2458213969#notes:PVE
-dimwishlist:item=1621558458&perks=588594999,2213355989#notes:PVP
+dimwishlist:item=1621558458&perks=280464955,2213355989#notes:PVP SofSplicer
+dimwishlist:item=1621558458&perks=2946784966,2458213969#notes:PVE SofSplicer
+dimwishlist:item=1621558458&perks=588594999,2213355989#notes:PVP SofSplicer
 
 //Sojourner's Tale
-//notes: Season of Splicer Weapon
-dimwishlist:item=599895591&perks=247725512,4104185692#notes:PVE
-dimwishlist:item=599895591&perks=3300816228,4104185692#notes:PVE
-dimwishlist:item=599895591&perks=706527188,47981717#notes:PVP
-dimwishlist:item=599895591&perks=3300816228,3865257976#notes:PVE
+dimwishlist:item=599895591&perks=247725512,4104185692#notes:PVE SofSplicer
+dimwishlist:item=599895591&perks=3300816228,4104185692#notes:PVE SofSplicer
+dimwishlist:item=599895591&perks=706527188,47981717#notes:PVP SofSplicer
+dimwishlist:item=599895591&perks=3300816228,3865257976#notes:PVE SofSplicer
 
 //Shattered Cipher
-//notes: Season of Splicer Weapon
-dimwishlist:item=2434225986&perks=1570042021,4104185692 #notes:PVE
-dimwishlist:item=2434225986&perks=1570042021,3425386926 #notes:PVE 
-dimwishlist:item=2434225986&perks=3300816228,3425386926 #notes:PVE 
+dimwishlist:item=2434225986&perks=1570042021,4104185692 #notes:PVE SofSplicer
+dimwishlist:item=2434225986&perks=1570042021,3425386926 #notes:PVE SofSplicer
+dimwishlist:item=2434225986&perks=3300816228,3425386926 #notes:PVE SofSplicer
+
+//Season of Splicer Playlist
+//Survivor's Epitaph
+dimwishlist:item=310708513&perks=247725512,1015611457 #notes:PVE SofSplicer
+dimwishlist:item=310708513&perks=3124871000,2458213969 #notes:PVE SofSplicer
+dimwishlist:item=310708513&perks=2450788523,957782887 #notes:PVP SofSplicer
+dimwishlist:item=310708513&perks=706527188,588594999 #notes:PVP SofSplicer

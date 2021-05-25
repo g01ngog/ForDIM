@@ -42,3 +42,7 @@ dimwishlist:item=310708513&perks=3124871000,2458213969 #notes:PVE SofSplicer
 dimwishlist:item=310708513&perks=2450788523,957782887 #notes:PVP SofSplicer
 dimwishlist:item=310708513&perks=706527188,588594999 #notes:PVP SofSplicer
 
+//Pleiades Corrector
+dimwishlist:item=1342668638&perks=1354429876,3523296417 #notes:PVE SofSplicer
+dimwishlist:item=1342668638&perks=1354429876,3592538738 #notes:PVE SofSplicer
+dimwishlist:item=1342668638&perks=1820235745,3592538738 #notes:PVE SofSplicer
